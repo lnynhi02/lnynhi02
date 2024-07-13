@@ -12,7 +12,7 @@
 
 
 <p align="center"> 
-  <samp style="font-style: italic; font-size: 1.2em;">
+  <samp style="font-style: italic; font-size: 1.5em;">
     <br>
     「 <strong>I am a passionate Data Engineer from Vietnam!</strong> 」<br>
     <strong>Bringing creativity and dedication to every data challenge I tackle.</strong>
