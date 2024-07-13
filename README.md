@@ -42,7 +42,7 @@
  # About me
  
 <p>
-  <img align="right" width="280" src="programming1.gif" alt="Coding gif" />
+  <img align="right" width="290" src="programming1.gif" alt="Coding gif" />
 
   🚀 &emsp; Always learning and adapting to new technologies with enthusiasm<br/><br/>
 
