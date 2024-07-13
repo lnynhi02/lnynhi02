@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hi 👋, I'm 
-                <b><a target="_blank" href="https://yennhi-1508.netlify.app/" >Yen Nhi</a></b>
+                <b><a href="https://yennhi-1508.netlify.app/" target="_blank">Yen Nhi</a></b>
         </samp>
 </h3>
 
