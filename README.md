@@ -45,18 +45,17 @@
  
 <p>
 
-  - 🚀 &emsp; Always learning and adapting to new technologies with enthusiasm<br/><br/>
+  - 🚀 &emsp; Always learning and adapting to new technologies with enthusiasm<br/>
 
-  - 🧑‍💻 &emsp; All of my projects are available at <a href="https://yennhi-1508.netlify.app/" target="_blank">https://yennhi-1508.netlify.app/</a><br/><br/>
+  - 🧑‍💻 &emsp; All of my projects are available at <a href="https://yennhi-1508.netlify.app/" target="_blank">https://yennhi-1508.netlify.app/</a><br/>
     
-  - 📧 &emsp; Reach me anytime: <a href="mailto:ynnhi1508@gmail.com">ynnhi1508@gmail.com</a><br/><br/>
+  - 📧 &emsp; Reach me anytime: <a href="mailto:ynnhi1508@gmail.com">ynnhi1508@gmail.com</a><br/>
   
   - 💬 &emsp; Ask me about anything <a href="https://www.linkedin.com/in/yen-nhi-077074270/" target="_blank">here</a><br/><br/>
 I'm a versatile data engineer proficient in designing and optimizing data architectures to deliver actionable insights. With a strong ability to work independently or collaboratively within a team, I excel in crafting scalable solutions that meet diverse business needs. I thrive in dynamic environments, driven by a commitment to meeting deadlines and enhancing data-driven decision-making through continuous learning and innovation.
 </p>
 
 
-<br/>
 <br/>
 <br/>
 
