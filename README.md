@@ -18,11 +18,6 @@
   </samp>
 </p>
 
-<div align="center">
-  <img src="image_processing20210301-3601-w1fbuc.gif" width="600" height="300"/>
-</div>
-
-
 
 
 
@@ -40,11 +35,15 @@
 </p>
 <br />
 
+<div align="center">
+  <img src="image_processing20210301-3601-w1fbuc.gif" width="550" height="300"/>
+</div>
+
+
 <!-- About Section -->
  # About me
  
 <p>
-  <img align="right" width="290" src="programming1.gif" alt="Coding gif" />
 
   🚀 &emsp; Always learning and adapting to new technologies with enthusiasm<br/><br/>
 
