@@ -9,8 +9,6 @@
 
 
 
-
-
 <p align="center"> 
   <samp style="font-style: italic; font-size: 2em;">
     <br>
@@ -19,6 +17,10 @@
     <br>
   </samp>
 </p>
+
+<div align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw3CQoVSQzuw4dYTeHrxsnYl&ust=1721016183328000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCoj4bTpYcDFQAAAAAdAAAAABAE" width="600" height="300"/>
+</div>
 
 
 
