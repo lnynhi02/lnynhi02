@@ -1,76 +1,83 @@
-<!-- Intro  -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LNYN-1508.LNYN-1508" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0366D6&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yen+Nhi!👩‍💻;" />
+</h1>
+
+<h3 align="center">A passionate Data Engineer from Vietnam</h3>
+
 <br/>
-<h3 align="center" style="font-size: 10em;">
-    <samp>
-        &gt; Hi 👋, I'm 
-        <b><a href="https://yennhi-1508.netlify.app/" target="_blank">Yen Nhi</a></b>
-    </samp>
-</h3>
-
-
-
-<p align="center"> 
-  <samp style="font-style: italic; font-size: 2em;">
-    <br>
-    「 <strong>I am a passionate Data Engineer from Vietnam!</strong> 」<br>
-    <strong>Bringing creativity and dedication to every data challenge I tackle.</strong>
-    <br>
-  </samp>
-</p>
-
-
-
-
-
-<p align="center">
- <a href="https://www.linkedin.com/in/yen-nhi-077074270/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nhi"/>
- </a>
- <!-- <a href="https://dev.to/nhi" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="nhi" />
- </a> -->
- <a href="[https://instagram.com/_ln.yn_]" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="nhi" />
- </a> 
-</p>
-<br />
 
 <div align="center">
-  <img src="image_processing20210301-3601-w1fbuc.gif" width="550" height="300"/>
+
+🌱 I’m currently learning **Airflow, Azure, Docker**
+ 
+🔭 I recently built a trips real-time analytics pipeline, check it out [here](https://github.com/LNYN-1508/Data-Pipeline-Project)
+ 
+💬 Ask me about **anything [here](https://github.com/LNYN-1508/Data-Pipeline-Project/issues)**
+
+😐 If you don't write SQL clauses in uppercase, I will not trust you
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ynnhi1508@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/yen-nhi-077074270/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href=https://yennhi-1508.netlify.app/ target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
 </div>
 
-
-<!-- About Section -->
- # About me
+ <hr/>
  
-<p>
+<h2 align="center">💻	Technologies 💻</h2>
+<br/>
+<div align="center">
+    <img width=3% height=3% src="assets/python.png" />
+    <img width=3% height=3% src="assets/mysql.png" />
+    <img width=3% height=3% src="assets/postgres.png" />
+    <img width=6% height6% src="assets/apache_spark.svg" />
+    <img width=6% height6% src="assets/kafka.svg" />
+    <img width=2.6% height=2.6% src="assets/airflow.png" />
+    <img width=3.1% height=3.1% src="assets/docker.png" />
+    <img width=2.6% height=2.6% src="assets/azure.png" />
+<br>
+</div>
 
-  - 🚀 &emsp; Always learning and adapting to new technologies with enthusiasm<br/>
+<br/>
+<hr/>
 
-  - 🧑‍💻 &emsp; All of my projects are available at <a href="https://yennhi-1508.netlify.app/" target="_blank">https://yennhi-1508.netlify.app/</a><br/>
-    
-  - 📧 &emsp; Reach me anytime: <a href="mailto:ynnhi1508@gmail.com">ynnhi1508@gmail.com</a><br/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LNYN-1508/LNYN-1508/output/github-contribution-grid-snake.svg" />
   
-  - 💬 &emsp; Ask me about anything <a href="https://www.linkedin.com/in/yen-nhi-077074270/" target="_blank">here</a><br/><br/>
-I'm a versatile data engineer proficient in designing and optimizing data architectures to deliver actionable insights. With a strong ability to work independently or collaboratively within a team, I excel in crafting scalable solutions that meet diverse business needs. I thrive in dynamic environments, driven by a commitment to meeting deadlines and enhancing data-driven decision-making through continuous learning and innovation.
-</p>
+  <br/><br/><br/>
+</div>
 
+<hr/>
 
-<br/>
-<br/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-## Use To Code
+<br/><br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+<hr/>
 
 <br/>
 
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
+<br/>
