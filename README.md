@@ -65,6 +65,8 @@
 <br>
 <div align=center>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LNYN-1508&theme=dark&border_radius=18&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<!--     <br/>
+<!-- <img width=325 align="center" src="https://github-readme-stats-LNYN-1508.vercel.app/api/top-langs/?username=LNYN-1508&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> --> -->
     <br/>
 </div>
 
