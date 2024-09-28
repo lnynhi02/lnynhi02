@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0366D6&center=true&vCenter=true&width=500&height=70&duration=2000&pause=800&lines=Hello+World!+👋;+++I'm+Yen+Nhi+!;Welcome+to+my+Github+profile+!;" style="margin-left: 50px"/>
 </h1>
 
-<h3 align="center">With a heart full of passion for data, I’m a Data Engineer from Vietnam, weaving magic from numbers to create impactful solutions!</h3>
+<h3 align="center">With a deep love for data, I’m a Data Engineer from Vietnam, crafting resilient data infrastructures that power analytical systems!</h3>
 
 <div align="center"> 
   <a href="mailto:ynnhi1508@gmail.com">
