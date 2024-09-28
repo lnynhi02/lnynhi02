@@ -25,7 +25,7 @@
     
 🤓 A self-taught Data Engineer who believes that every failed experiment is just another step towards mastery!
     
-🌱 Actively expanding my skills in **Kafka, Airflow, and Azure**, and getting ready to dive into **MongoDB and Hadoop**.
+🌱 Actively expanding my skills in *Kafka, Airflow, and Azure*, and getting ready to dive into *MongoDB and Hadoop*.
 
 ❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aspiring to reach a Senior level in this field within the next 5 years.
