@@ -59,10 +59,7 @@
 
 <div align="left">
   <h2>My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lnynhi02/lnynhi02/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
 </div>
 
 <h2 align="left">Stats ⚡</h2>
