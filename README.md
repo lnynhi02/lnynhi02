@@ -57,8 +57,6 @@
 <br>
 </div>
 
-<br/>
-
 <div align="left">
   <h2>My Contributions 🐍</h2>
   <br>
