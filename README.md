@@ -19,8 +19,8 @@
 </div>
 
 <img align="right" width=330 height=250 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNkdHQ5d3RnNGVndXdhNmN2cjd2bjRkeTk4YW9ndWcxeGJxb2t6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYvAT2QTNL8IUpEho2/giphy.webp" />
-
 **Fun facts 📝**
+
 <div>
 
 🌱 Currently learning more about **Kafka, Airflow, Azure**.
