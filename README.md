@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LNYN-1508.LNYN-1508" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lnynhi02.lnynhi02" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0366D6&center=true&vCenter=true&width=500&height=70&duration=2000&pause=800&lines=Hello+World!+👋;+++I'm+Yen+Nhi+!;Welcome+to+my+Github+profile+!;" style="margin-left: 50px"/>
@@ -58,7 +58,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LNYN-1508/LNYN-1508/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lnynhi02/lnynhi02/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -66,9 +66,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNYN-1508&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=18&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnynhi02&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=18&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
   <br/>
 
-  <img src ="https://github-readme-stats.vercel.app/api?username=LNYN-1508&show_icons=true&rank_icon=github&theme=codeSTACKr&border_radius=18" alt="readme stats"/>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LNYN-1508&theme=codeSTACKr&border_radius=18&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" /></a>
+  <img src ="https://github-readme-stats.vercel.app/api?username=lnynhi02&show_icons=true&rank_icon=github&theme=codeSTACKr&border_radius=18" alt="readme stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lnynhi02&theme=codeSTACKr&border_radius=18&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" /></a>
