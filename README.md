@@ -1,25 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LNYN-1508.LNYN-1508" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0366D6&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yen+Nhi!👩‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0366D6&center=true&vCenter=true&width=500&height=70&duration=2000&pause=800&lines=Hello+World!+👋;+++I'm+Yen+Nhi+!;Welcome+to+my+Github+profile+!;" style="margin-left: 50px"/>
 </h1>
 
-<h3 align="center">A passionate Data Engineer from Vietnam</h3>
+<h3 align="center">With a heart full of passion for data, I’m a Data Engineer from Vietnam, weaving magic from numbers to create impactful solutions!</h3>
 
-<br/>
-
-<div align="center">
-
-🌱 I’m currently learning **Airflow, Azure, Docker**
- 
-🔭 I recently built a trips real-time analytics pipeline, check it out [here](https://github.com/LNYN-1508/Data-Pipeline-Project)
- 
-💬 Ask me about **anything [here](https://github.com/LNYN-1508/Data-Pipeline-Project/issues)**
-
-😐 If you don't write SQL clauses in uppercase, I will not trust you
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:ynnhi1508@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -31,8 +17,21 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
+<br/>
 
- <hr/>
+## Fun facts 📝
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <div>
+        <p style="margin-bottom: 10px;">🌱 I’m currently learning more about <strong>Kafka, Airflow, Azure, Docker.</strong></p>
+        <p style="margin-bottom: 10px;">❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps,<br>
+           <span style="margin-left: 22px;">aspiring to reach a Senior level in this field within the next 5 years.</span></p>
+        <p style="margin-bottom: 10px;">☕ 12 hours a day of learning—when caffeine and curiosity kick in together!</p>
+        <p style="margin-bottom: 10px;">😬 Lowercase SQL keywords? Oops, my trust just got a <code>NULL</code> assignment.</p>
+        <p style="margin-bottom: 10px;">😴 Dream big! Just remember, the bigger the dream, the bigger the nap you’ll need.</p>
+    </div>
+    <img width=300 height=230 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNkdHQ5d3RnNGVndXdhNmN2cjd2bjRkeTk4YW9ndWcxeGJxb2t6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYvAT2QTNL8IUpEho2/giphy.webp" style="margin-right: 80px;" />
+</div>
+<br/>
  
 <h2 align="center">💻	Technologies 💻</h2>
 <br/>
@@ -40,16 +39,15 @@
     <img width=40 height=40 src="assets/python.png" />
     <img width=40 height=40 src="assets/mysql.png" />
     <img width=40 height=40 src="assets/postgres.png" />
-    <img width=40 height=40 src="assets/apache_spark.svg" />
-    <img width=40 height=40 src="assets/kafka.svg" />
-    <img width=40 height=40 src="assets/airflow.png" />
+    <img width=40 height=40 src="assets/spark.png" />
+    <img width=40 height=40 src="assets/kafka.png" />
+    <img width=35 height=35 src="assets/airflow.png" />
     <img width=40 height=40 src="assets/docker.png" />
-    <img width=40 height=40 src="assets/azure.png" />
+    <img width=35 height=35 src="assets/azure.png" />
 <br>
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -59,20 +57,12 @@
   <br/><br/><br/>
 </div>
 
-<hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LNYN-1508&theme=dark&border_radius=18&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-<!--     <br/>
-<!-- <img width=325 align="center" src="https://github-readme-stats-LNYN-1508.vercel.app/api/top-langs/?username=LNYN-1508&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> --> -->
-    <br/>
-</div>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LNYN-1508&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=18&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-<br/><br/>
+  <br/>
 
-<hr/>
-
-<br/>
-
+  <img src ="https://github-readme-stats.vercel.app/api?username=LNYN-1508&show_icons=true&rank_icon=github&theme=codeSTACKr&border_radius=18" alt="readme stats"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LNYN-1508&theme=codeSTACKr&border_radius=18&date_format=M%20j%5B%2C%20Y%5D" alt="streak stats" /></a>
