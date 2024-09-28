@@ -31,7 +31,7 @@
     
 🤓 A self-taught Data Engineer who believes that every failed experiment is just another step towards mastery!
 
-🌱 Actively expanding my skills in *Kafka, Airflow, and Azure*, and getting ready to dive into *MongoDB and Hadoop*.
+🌱 Continuously expanding my toolkit with *Kafka, Airflow, and Azure*. *MongoDB and Hadoop* are next on the menu!
 
 ❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps, aspiring to reach a Senior level in this field within the next 5 years.
 
@@ -39,7 +39,7 @@
 
 😬 Lowercase SQL keywords? Oops, my trust just got a `NULL` assignment.
 
-😴 Dream big! Just remember, the bigger the dream, the bigger the nap you’ll need.
+💭 Dream big! Just remember, the bigger the dream, the bigger the nap you’ll need.
 
 </div>
 
