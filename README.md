@@ -16,7 +16,7 @@
   <a href=https://yennhi-1508.netlify.app/ target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <a href=https://yennhi-1508.netlify.app/ target="_blank">
+  <a href=https://instagram.com/_ln.yn_/ target="_blank">
      <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
   </a>
 </div>
