@@ -23,7 +23,9 @@
 **Fun facts 📝**
 <div>
 
-🌱 I’m currently learning more about **Kafka, Airflow, Azure**.
+🌱 Currently learning more about **Kafka, Airflow, Azure**.
+
+🚀 Preparing to learn **MongoDB, Hadoop**.
 
 ❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aspiring to reach a Senior level in this field within the next 5 years.
