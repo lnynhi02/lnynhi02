@@ -20,16 +20,19 @@
 <br/>
 
 ## Fun facts 📝
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <p style="margin-bottom: 10px;">🌱 I’m currently learning more about <strong>Kafka, Airflow, Azure, Docker.</strong></p>
-        <p style="margin-bottom: 10px;">❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps,<br>
-           <span style="margin-left: 50px;">aspiring to reach a Senior level in this field within the next 5 years.</span></p>
-        <p style="margin-bottom: 10px;">☕ 12 hours a day of learning—when caffeine and curiosity kick in together!</p>
-        <p style="margin-bottom: 10px;">😬 Lowercase SQL keywords? Oops, my trust just got a <code>NULL</code> assignment.</p>
-        <p style="margin-bottom: 10px;">😴 Dream big! Just remember, the bigger the dream, the bigger the nap you’ll need.</p>
-    </div>
-    <img width=300 height=230 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNkdHQ5d3RnNGVndXdhNmN2cjd2bjRkeTk4YW9ndWcxeGJxb2t6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYvAT2QTNL8IUpEho2/giphy.webp" style="margin-left: 80px;" />
+<div>
+
+🌱 I’m currently learning more about **Kafka, Airflow, Azure**.
+
+❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aspiring to reach a Senior level in this field within the next 5 years.
+
+☕ 12 hours a day of learning—when caffeine and curiosity kick in together!
+
+😬 Lowercase SQL keywords? Oops, my trust just got a `NULL` assignment.
+
+😴 Dream big! Just remember, the bigger the dream, the bigger the nap you’ll need.
+
 </div>
 <br/>
  
