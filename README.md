@@ -14,21 +14,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href=https://yennhi-1508.netlify.app/ target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-006400?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href=https://yennhi-1508.netlify.app/ target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
   </a>
 </div>
 
-<img align="right" width=350 height=320 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNkdHQ5d3RnNGVndXdhNmN2cjd2bjRkeTk4YW9ndWcxeGJxb2t6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aYvAT2QTNL8IUpEho2/giphy.webp" />
+<div align="center">
+<img align="center" width=1000 height=320 src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+</div>
 
-**Fun facts 📝**
+
+## Fun facts 📝
 <div>
     
 🤓 A self-taught Data Engineer who believes that every failed experiment is just another step towards mastery!
-    
+
 🌱 Actively expanding my skills in *Kafka, Airflow, and Azure*, and getting ready to dive into *MongoDB and Hadoop*.
 
-❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps,  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aspiring to reach a Senior level in this field within the next 5 years.
+❤️‍🔥 Highly enthusiastic about Data Engineering and DataOps, aspiring to reach a Senior level in this field within the next 5 years.
 
 ☕ 12 hours a day of learning—when caffeine and curiosity kick in together!
 
@@ -37,11 +42,10 @@
 😴 Dream big! Just remember, the bigger the dream, the bigger the nap you’ll need.
 
 </div>
+
+<h2 align="left">Languages and Tools 💻</h2>
 <br/>
- 
-<h2 align="center">💻	Technologies 💻</h2>
-<br/>
-<div align="center">
+<div align="left">
     <img width=40 height=40 src="assets/python.png" />
     <img width=40 height=40 src="assets/mysql.png" />
     <img width=40 height=40 src="assets/postgres.png" />
@@ -55,15 +59,15 @@
 
 <br/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+<div align="left">
+  <h2>My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lnynhi02/lnynhi02/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=lnynhi02&hide=HTML&langs_count=8&layout=compact&theme=codeSTACKr&border_radius=18&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
