@@ -37,14 +37,14 @@
 <h2 align="center">💻	Technologies 💻</h2>
 <br/>
 <div align="center">
-    <img width=3% height=3% src="assets/python.png" />
-    <img width=3% height=3% src="assets/mysql.png" />
-    <img width=3% height=3% src="assets/postgres.png" />
-    <img width=6% height6% src="assets/apache_spark.svg" />
-    <img width=6% height6% src="assets/kafka.svg" />
-    <img width=2.6% height=2.6% src="assets/airflow.png" />
-    <img width=3.1% height=3.1% src="assets/docker.png" />
-    <img width=2.6% height=2.6% src="assets/azure.png" />
+    <img width=40 height=40 src="assets/python.png" />
+    <img width=40 height=40 src="assets/mysql.png" />
+    <img width=40 height=40 src="assets/postgres.png" />
+    <img width=40 height=40 src="assets/apache_spark.svg" />
+    <img width=40 height=40 src="assets/kafka.svg" />
+    <img width=40 height=40 src="assets/airflow.png" />
+    <img width=40 height=40 src="assets/docker.png" />
+    <img width=40 height=40 src="assets/azure.png" />
 <br>
 </div>
 
