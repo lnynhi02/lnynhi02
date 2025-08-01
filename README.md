@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0366D6&center=true&vCenter=true&width=500&height=70&duration=2000&pause=800&lines=Hello+World!+👋;+++I'm+Nia+!;Welcome+to+my+Github+profile+!;" style="margin-left: 50px"/>
 </h1>
 
-<h3 align="center">With a deep love for data, I’m a Data Engineer from Vietnam, crafting resilient data infrastructures that power analytical systems!</h3>
+<h3 align="center">Aspiring Data Engineer from Vietnam — raised by bugs, saved by docs, shaped by personal projects.</h3>
 
 <div align="center"> 
   <a href="mailto:ynnhi1508@gmail.com">
